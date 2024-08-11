@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShadowmanchDev, the greatest mind in HTML!
+- 👀 I’m interested in HTML, JS, Lua
+- 🌱 I’m currently learning HTML
+- 📫 Reach me on Discord - ShadowmanchDev
+- Sub to me on YT- @ShadowmanchDev
